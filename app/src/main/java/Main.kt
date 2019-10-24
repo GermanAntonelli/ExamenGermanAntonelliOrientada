@@ -15,5 +15,5 @@ fun main(args: Array<String>){
     val classElevadorArrivaObject = classElevadorArriva()
     //classElevadorAbajoObject.showelevadorarriba()
 
-   
+
 }
